@@ -1,0 +1,5 @@
+console_log_path
+npm-debug.log
+/node_modules
+/bower_components
+/dist
